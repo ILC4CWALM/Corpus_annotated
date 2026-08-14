@@ -1,0 +1,61 @@
+Etiquette,Presentation (FR)
+ADJ,adjectif
+ADJ-MSA,"adjectif (arabe standard, MSA)"
+ADJ-foreign,adjectif d'origine étrangère
+ADV,adverbe
+ADV-MSA,"adverbe (arabe standard, MSA)"
+ADV-PRON_1S,adverbe + pronom clitique 1re pers. sg. [coquille probable]
+ADV-foreign,adverbe d'origine étrangère
+ADV_MSA,"adverbe (arabe standard, MSA)"
+CONJ,conjonction (proclitique)
+CONJ-MSA,"conjonction (arabe standard, MSA)"
+CONJ-foreign,conjonction d'origine étrangère
+DEM_PRON,pronom démonstratif
+DEM_PRON_FS,pronom démonstratif féminin singulier
+DEM_PRON_FS_MSA,"pronom démonstratif féminin singulier (arabe standard, MSA)"
+DEM_PRON_MP,pronom démonstratif masculin pluriel
+DEM_PRON_MS,pronom démonstratif masculin singulier
+DEM_PRON_MS_MSA,"pronom démonstratif masculin singulier (arabe standard, MSA)"
+DEM_PRON_MS_foreign,"pronom démonstratif masculin singulier, forme étrangère"
+DEM_PRON_P,pronom démonstratif pluriel
+DEM_PRON_P_MSA,"pronom démonstratif pluriel (arabe standard, MSA)"
+DEM_PRON_S,pronom démonstratif singulier
+DET-foreign,déterminant sur base étrangère
+EMP_PART,particule d'emphase (clitique)
+EXCLAM_PART,particule exclamative
+Esclam-foreign,particule exclamative d'origine étrangère [coquille : Esclam]
+FUNC_WORD,mot outil / mot fonctionnel
+FUNC_WORD-MSA,"mot outil / mot fonctionnel (arabe standard, MSA)"
+FUT_PART,particule du futur
+IMPERATIVE_VERB,verbe à l'impératif
+INTERJ,interjection
+INTERJ-MSA,"interjection (arabe standard, MSA)"
+INTERJ-foreign,interjection d'origine étrangère
+INTERROG_PART,particule interrogative
+INTERROG_PART-MSA,"particule interrogative (arabe standard, MSA)"
+NEG_PART,particule de négation
+NOUN,nom
+NOUN-Foreign,nom d'origine étrangère
+NOUN-MSA,"nom (arabe standard, MSA)"
+NOUN-foreign,nom d'origine étrangère
+Numb-foreign,numéral d'origine étrangère
+PART,particule
+PASSIVE-VERB,verbe à la forme passive
+PREP,préposition
+PREP-MSA,"préposition (arabe standard, MSA)"
+PRONOUN,pronom
+PRON_1P,"pronom personnel, 1re pers. pl."
+PRON_1S,"pronom personnel, 1re pers. sg."
+PRON_2FS,"pronom personnel, 2e pers. fém. sg."
+PRON_2MS,"pronom personnel, 2e pers. masc. sg."
+PRON_2P,"pronom personnel, 2e pers. pl."
+PRON_3FS,"pronom personnel, 3e pers. fém. sg."
+PRON_3MS,"pronom personnel, 3e pers. masc. sg."
+PRON_3P,"pronom personnel, 3e pers. pl."
+PROPN,nom propre
+Prep-NOUN,préposition + nom (agglutinés) [variante de casse]
+Prep-foreign,préposition sur base étrangère
+REL_PRON,pronom relatif
+VERB,verbe
+frase-foreign,expression figée d'origine étrangère [coquille : frase]
+prep,préposition [variante de casse]
