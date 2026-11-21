@@ -56,24 +56,18 @@ The corpus was developed through the following stages:
 
 ## Data Availability
 
-The annotated data are available in this repository:
+The MODIC (Moroccan Dialect Corpus) annotated dataset is publicly available through the [GitHub repository](https://github.com/ILC4CWALM/Corpus_annotated) and archived on Zenodo. The published version (v1.0.0) is accessible through the following persistent DOI:
 
-[https://github.com/ILC4CWALM/Corpus_annotated](https://github.com/ILC4CWALM/Corpus_annotated)
-
-A versioned archival copy will also be made available through Zenodo, with a persistent DOI to be added upon publication.
+https://doi.org/10.5281/zenodo.24409152
 
 ## Licence
 
-The annotated data and original documentation in this repository are intended to be distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence, subject to the applicable rights and permissions.
+The annotated data and accompanying documentation are distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence, subject to the applicable rights and permissions.
 
-For licence details, see:
-
-[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+https://creativecommons.org/licenses/by/4.0/
 
 ## Citation
 
-If you use MODIC in your research, please cite the corpus as follows:
+Please cite the dataset as follows:
 
-**MODIC: Moroccan Dialect Corpus.** Version 1.0.0. Zenodo. [DOI to be added].
-
-Please provide appropriate attribution to the corpus creators when using, sharing, or adapting the annotated data.
+MODIC: Moroccan Dialect Corpus. (2026). Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.24409152
